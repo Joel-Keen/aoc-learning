@@ -1,5 +1,7 @@
 # aoc-learning
 
-Test first github branch
+Test first github commit
 
-Test second github branch
+Test second github commit
+
+Test new branch name
